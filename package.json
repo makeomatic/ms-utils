@@ -33,7 +33,7 @@
     "@types/bluebird": "^3.5.36",
     "@types/is": "^0.0.21",
     "@types/lodash": "^4.14.179",
-    "@types/mocha": "^9.1.0",
+    "@types/mocha": "^10.0.0",
     "benchmark": "^2.1.4",
     "c8": "^7.11.0",
     "chai": "^4.3.6",
